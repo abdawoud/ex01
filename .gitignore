@@ -1,0 +1,4 @@
+./CISPABay/app/build/*
+./ServiceApp/app/build/*
+local.properties
+.idea
